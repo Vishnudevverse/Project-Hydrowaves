@@ -1,7 +1,7 @@
 # Hydrowaves.in — Client Business Website
 
 Hi there! 👋  
-I’m **Vishnu**, a 3rd-year B.Tech student and focusing on full-stack software developer.
+I’m **Vishnu**, a 3rd-year B.Tech student and focusing on full-stack software development.
 
 ---
 
