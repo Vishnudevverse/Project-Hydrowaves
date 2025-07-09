@@ -1,38 +1,60 @@
-# 🌊 Hydrowaves.in
+# 🌊 Hydrowaves.in — Client Project
 
-Welcome to the official GitHub landing page for [Hydrowaves.in](https://hydrowaves.in) —  
-your trusted partner for hydraulic equipment **sales, service, and training**.
+Hi there! 👋  
+I’m **Vishnu**, a 2nd-year B.Tech student and aspiring software developer.
 
 ---
 
-## 🚀 About Hydrowaves
+## 🚀 About This Project
 
-Hydrowaves.in is a dedicated platform that provides:
-- 🛠️ **Sales** — Reliable hydraulic equipment for various industrial needs.
-- 🔧 **Service** — Professional maintenance & repair support.
-- 🎓 **Training** — Technical training and skill development for hydraulic systems.
+**Hydrowaves.in** is a fully functional website I designed and developed for a small business specializing in **hydraulic equipment sales, service, and training**.
+
+This was my first real-world freelance project — built while balancing my studies.
+
+---
+
+## 🛠️ What I Did
+
+✔️ Planned & designed the website layout  
+✔️ Developed responsive pages (Home, Services, Training, Contact)  
+✔️ Integrated hosting and domain (`hydrowaves.in`)  
+✔️ Ensured SEO-friendly structure & fast loading times  
+✔️ Delivered updates and support for the client’s business needs
 
 ---
 
 ## 🌐 Live Website
 
-👉 Visit **[https://hydrowaves.in](https://hydrowaves.in)** to explore our products, services, and training programs.
+👉 [**Visit Hydrowaves.in**](https://hydrowaves.in)
 
 ---
 
-## 📈 What’s Inside This Repo?
+## ✨ Skills Demonstrated
 
-This public repository serves as a **showcase reference** for our live website.  
-No source code is published here — for privacy and security reasons.
-
----
-
-## 📫 Get in Touch
-
-- 📧 Email: [info@hydrowaves.in](mailto:info@hydrowaves.in)
-- 🌐 Website: [Hydrowaves.in](https://hydrowaves.in)
+- **Web Development**: HTML, CSS, JavaScript, PHP (if applicable)
+- **Hosting**: Deployed on Hostinger
+- **Version Control**: Git & GitHub for code management
+- **Client Communication**: Understood real requirements & delivered on time
 
 ---
 
-**Thank you for your interest!** 🌊✨
+## 🔒 Source Code
 
+This repo is a **showcase only** — the full project code is private to protect the client’s data & business logic.
+
+---
+
+## 📚 About Me
+
+- 🎓 2nd-year B.Tech student, learning full-stack development.
+- 💡 Passionate about building clean, functional websites.
+- 🌍 Exploring freelance work while studying.
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: [your-email@example.com](mailto:selvanvishnu73@gmail.com)
+- 🌐 Portfolio: *(Add link when you have one!)*
+
+Thanks for checking out my work! 🚀✨
