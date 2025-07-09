@@ -29,8 +29,7 @@ and an **SEO score above 95+**.
 ✔️ Planned, designed & developed the entire website  
 ✔️ Integrated static content for fast load times + PHP for dynamic features  
 ✔️ Tuned performance for 95+ scores in PageSpeed & SEO audits  
-✔️ Managed deployment on Hostinger with a custom domain  
-✔️ Provided updates & training for the client to manage content
+✔️ Managed deployment on Hostinger with a custom domain
 
 ---
 
