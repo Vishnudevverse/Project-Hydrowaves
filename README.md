@@ -67,5 +67,6 @@ This repository is a **public showcase** — the actual code is private to respe
 ## 📫 Let’s Connect
 
 - 📧 Email: [selvanvishnu73@gmail.com](mailto:selvanvishnu73@gmail.com)
-- ☎ Call/Message/Whatsapp : +91 [8778172615]
+- ☎ Call/Message/Whatsapp : +918778172615
+  
 Thanks for checking out my work! 🚀✨
