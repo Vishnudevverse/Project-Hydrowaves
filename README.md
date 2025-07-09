@@ -1,25 +1,33 @@
-# 🌊 Hydrowaves.in — Client Project
+# 🌊 Hydrowaves.in — Client Business Website
 
 Hi there! 👋  
-I’m **Vishnu**, a 2nd-year B.Tech student and aspiring software developer.
+I’m **Vishnu**, a 2nd-year B.Tech student and aspiring full-stack developer.
 
 ---
 
 ## 🚀 About This Project
 
-**Hydrowaves.in** is a fully functional website I designed and developed for a small business specializing in **hydraulic equipment sales, service, and training**.
-
-This was my first real-world freelance project — built while balancing my studies.
+**Hydrowaves.in** is a live, fully functional business website I built for a hydraulic equipment company.  
+It combines **dynamic** and **static** pages to deliver a balanced performance with a page speed score of **95+**, and **SEO score above 95+**.
 
 ---
 
-## 🛠️ What I Did
+## 🛠️ Tech Stack
 
-✔️ Planned & designed the website layout  
-✔️ Developed responsive pages (Home, Services, Training, Contact)  
-✔️ Integrated hosting and domain (`hydrowaves.in`)  
-✔️ Ensured SEO-friendly structure & fast loading times  
-✔️ Delivered updates and support for the client’s business needs
+- **Languages**: HTML, CSS, JavaScript, PHP  
+- **Hosting**: Deployed on Hostinger  
+- **Performance**: Optimized for fast loading and responsive design  
+- **SEO**: Structured markup & clean code for high search rankings
+
+---
+
+## 🎯 What I Did
+
+✔️ Planned, designed & developed the entire website  
+✔️ Integrated static content for fast load times + PHP for dynamic features  
+✔️ Tuned performance for 95+ scores in PageSpeed & SEO audits  
+✔️ Managed deployment on Hostinger with a custom domain  
+✔️ Provided updates & training for the client to manage content
 
 ---
 
@@ -31,30 +39,31 @@ This was my first real-world freelance project — built while balancing my stud
 
 ## ✨ Skills Demonstrated
 
-- **Web Development**: HTML, CSS, JavaScript, PHP (if applicable)
-- **Hosting**: Deployed on Hostinger
-- **Version Control**: Git & GitHub for code management
-- **Client Communication**: Understood real requirements & delivered on time
+- Responsive front-end development
+- Back-end scripting with PHP
+- Version control using Git & GitHub
+- Performance and SEO best practices
+- Real client communication & delivery
 
 ---
 
 ## 🔒 Source Code
 
-This repo is a **showcase only** — the full project code is private to protect the client’s data & business logic.
+This repository is a **public showcase** — the actual code is private to respect the client’s business requirements.
 
 ---
 
 ## 📚 About Me
 
-- 🎓 2nd-year B.Tech student, learning full-stack development.
-- 💡 Passionate about building clean, functional websites.
-- 🌍 Exploring freelance work while studying.
+- 🎓 2nd-year B.Tech student exploring full-stack web development.
+- 💻 Building real client projects alongside my studies.
+- 🌟 Passionate about delivering clean, performant websites.
 
 ---
 
 ## 📫 Let’s Connect
 
-- 📧 Email: [your-email@example.com](mailto:selvanvishnu73@gmail.com)
-- 🌐 Portfolio: *(Add link when you have one!)*
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🌐 Website/Portfolio: *(Add your personal site when you’re ready!)*
 
 Thanks for checking out my work! 🚀✨
