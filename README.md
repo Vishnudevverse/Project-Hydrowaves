@@ -1,14 +1,17 @@
-# Hydrowaves.in — Client Business Website
+# 🌊 Hydrowaves.in — Client Business Website
 
 Hi there! 👋  
-I’m **Vishnu**, a 2nd-year B.Tech student and aspiring full-stack developer.
+I’m **Vishnu**, a 3rd-year B.Tech student and aspiring full-stack developer.
 
 ---
 
 ## 🚀 About This Project
 
-**Hydrowaves.in** is a live, fully functional business website I built for a hydraulic equipment company.  
-It combines **dynamic** and **static** pages to deliver a balanced performance with a page speed score of **95+**, and **SEO score above 95+**.
+**Hydrowaves.in** is a live, fully functional business website I built for a hydraulic equipment company  
+**during my 2nd year of college**.
+
+It combines **dynamic** and **static** pages to deliver a balanced performance with a page speed score of **95+**,  
+and an **SEO score above 95+**.
 
 ---
 
@@ -55,9 +58,9 @@ This repository is a **public showcase** — the actual code is private to respe
 
 ## 📚 About Me
 
-- 🎓 2nd-year B.Tech student exploring full-stack web development.
-- 💻 Building real client projects alongside my studies.
-- 🌟 Passionate about delivering clean, performant websites.
+- 🎓 Currently a 3rd-year B.Tech student, exploring full-stack web development.
+- 💻 Built this real client project during my 2nd year.
+- 🌟 Passionate about delivering clean, high-performance websites for real businesses.
 
 ---
 
