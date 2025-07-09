@@ -1,4 +1,4 @@
-# 🌊 Hydrowaves.in — Client Business Website
+# Hydrowaves.in — Client Business Website
 
 Hi there! 👋  
 I’m **Vishnu**, a 2nd-year B.Tech student and aspiring full-stack developer.
