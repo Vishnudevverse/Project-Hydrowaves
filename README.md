@@ -63,6 +63,6 @@ This repository is a **public showcase** — the actual code is private to respe
 
 ## 📫 Let’s Connect
 
-- 📧 Email: [your-email@example.com](mailto:selvanvishnu73@gmail.com)
+- 📧 Email: [selvanvishnu73@gmail.com](mailto:selvanvishnu73@gmail.com)
 
 Thanks for checking out my work! 🚀✨
