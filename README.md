@@ -16,7 +16,11 @@ and an **SEO score above 95+**.
 ---
 
 ## 🛠️ Tech Stack
-
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+  ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=php&logoColor=white)
 - **Languages**: HTML, CSS, JavaScript, PHP  
 - **Hosting**: Deployed on Hostinger  
 - **Performance**: Optimized for fast loading and responsive design  
