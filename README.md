@@ -21,8 +21,10 @@ and an **SEO score above 95+**.
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
   ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=php&logoColor=white)
+  ![Hostinger](https://img.shields.io/badge/Hosted%20on-Hostinger-purple?style=flat)
+  
 - **Languages**: HTML, CSS, JavaScript, PHP  
-- **Hosting**: Deployed on Hostinger ![Hostinger](https://img.shields.io/badge/Hosted%20on-Hostinger-purple?style=flat)
+- **Hosting**: Deployed on Hostinger
 - **Performance**: Optimized for fast loading and responsive design  
 - **SEO**: Structured markup & clean code for high search rankings
 
